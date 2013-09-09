@@ -15,3 +15,5 @@
 
 *~
 *.kdev4
+build/
+config_version.hpp
